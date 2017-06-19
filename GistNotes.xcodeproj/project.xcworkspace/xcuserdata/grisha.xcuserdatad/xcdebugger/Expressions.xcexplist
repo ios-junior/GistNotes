@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "static Gist.createGist(gistInfo : [String : String]) -&gt; Gist?:Gist+CoreDataClass.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "fetchedGist.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GistCell.setupAvatarImageView() -&gt; ():GistCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "gist?.avatarUrl">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GistEditViewController.handleKeyboardDidShow(notification : Notification) -&gt; ():GistEditViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "notification.userInfo">
+            </PersistentString>
+            <PersistentString
+               value = "info.object(forKey: UIKeyboardFrameBeginUserInfoKey)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GistsViewController.actionRefresh(Any) -&gt; ():GistsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.gists.count">
+            </PersistentString>
+            <PersistentString
+               value = "onlyWithNotes">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GistCell.(detailButton).(variable initialization expression).(closure #1):GistCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "button.isUserInteractionEnabled">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static Gist.createGist([String : AnyObject]) -&gt; ():Gist+CoreDataClass.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "ownerDict[&quot;login&quot;] as? String">
+            </PersistentString>
+            <PersistentString
+               value = "ownerDict[&quot;login&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "dateFormatter.date(from: dateString)">
+            </PersistentString>
+            <PersistentString
+               value = "date">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GistsViewController.(fetchGists() -&gt; ()).(closure #1):GistsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.gists[0].login">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GistCell.gist.didset:GistCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.gist">
+            </PersistentString>
+            <PersistentString
+               value = "self.gist?.login?">
+            </PersistentString>
+            <PersistentString
+               value = "self.gist?.created_at">
+            </PersistentString>
+            <PersistentString
+               value = "self.gist?.notes?.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GistViewController.gist.didset:GistViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.gist?.description">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static Gist.createGist(gistInfo : [String : String]) -&gt; ():Gist+CoreDataClass.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "gist.id">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GistViewController.viewWillAppear(Bool) -&gt; ():GistViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "contentView">
+            </PersistentString>
+            <PersistentString
+               value = "contentHeight">
+            </PersistentString>
+            <PersistentString
+               value = "descTextViewHeight">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GistsViewController.viewDidLoad() -&gt; ():GistsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.parent.revealViewController()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GistsViewController.collectionView(UICollectionView, numberOfItemsInSection : Int) -&gt; Int:GistsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "gists.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NoteEditViewController.actionDone(AnyObject) -&gt; ():NoteEditViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "gist?.id">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
